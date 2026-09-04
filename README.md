@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0875-koko-eating-bananas) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
