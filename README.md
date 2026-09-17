@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0875-koko-eating-bananas) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0338-counting-bits) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
