@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
+| [3498-reverse-degree-of-a-string](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3798-largest-even-number) |
 ## Counting
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
