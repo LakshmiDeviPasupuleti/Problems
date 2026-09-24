@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0875-koko-eating-bananas) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## DP on Trees
@@ -199,9 +202,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
