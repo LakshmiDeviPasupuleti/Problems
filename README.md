@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
@@ -208,5 +210,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
