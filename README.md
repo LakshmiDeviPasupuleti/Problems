@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1920-build-array-from-permutation](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1920-build-array-from-permutation) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1436-destination-city](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1436-destination-city) |
 | [3498-reverse-degree-of-a-string](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3798-largest-even-number) |
 ## Counting
