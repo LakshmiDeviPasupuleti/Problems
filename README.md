@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1020-number-of-enclaves](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1020-number-of-enclaves) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
