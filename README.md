@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1920-build-array-from-permutation](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1920-build-array-from-permutation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
