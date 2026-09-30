@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1688-count-of-matches-in-tournament](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
