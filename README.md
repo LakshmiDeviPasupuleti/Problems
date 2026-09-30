@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0461-hamming-distance) |
 ## Tree
 |  |
 | ------- |
