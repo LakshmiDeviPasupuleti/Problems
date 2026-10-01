@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
