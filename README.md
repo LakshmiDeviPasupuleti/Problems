@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1254-number-of-closed-islands) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
@@ -293,4 +296,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
