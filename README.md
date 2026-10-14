@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0743-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
