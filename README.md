@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1436-destination-city) |
+| [2409-count-days-spent-together](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3798-largest-even-number) |
 ## Counting
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2409-count-days-spent-together](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
