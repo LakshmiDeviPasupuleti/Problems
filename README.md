@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0922-sort-array-by-parity-ii) |
