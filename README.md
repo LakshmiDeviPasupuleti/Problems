@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0733-flood-fill) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0875-koko-eating-bananas) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0461-hamming-distance) |
 ## Tree
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
