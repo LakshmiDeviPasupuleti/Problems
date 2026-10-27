@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0130-surrounded-regions) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -337,5 +339,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0011-container-with-most-water) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
