@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
