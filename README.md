@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0278-first-bad-version) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
 |  |
