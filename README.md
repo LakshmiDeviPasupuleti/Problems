@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0888-fair-candy-swap) |
+| [0930-binary-subarrays-with-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1436-destination-city) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [3903-smallest-stable-index-i](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
 |  |
