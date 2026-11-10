@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/1436-destination-city) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/LakshmiDeviPasupuleti/Problems/tree/master/0234-palindrome-linked-list) |
